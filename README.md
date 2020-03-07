@@ -1,1 +1,1 @@
-# Postaw-na-milion-z-GUI
+Gra "Postaw na milion"
